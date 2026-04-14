@@ -1,205 +1,128 @@
 {
   "shows": {
-    "AMBH|109020|20260417|PLATINUM": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "10:40 AM",
-      "date": "20260417",
-      "cat": "PLATINUM",
-      "price": "350.00",
-      "status": "0"
-    },
-    "AMBH|109020|20260417|GOLD": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "10:40 AM",
-      "date": "20260417",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "3"
-    },
-    "AMBH|109020|20260417|LOUNGERS": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "10:40 AM",
-      "date": "20260417",
-      "cat": "LOUNGERS",
-      "price": "295.00",
-      "status": "3"
-    },
-    "AMBH|109089|20260417|PLATINUM": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "01:25 PM",
-      "date": "20260417",
-      "cat": "PLATINUM",
-      "price": "350.00",
-      "status": "0"
-    },
-    "AMBH|109089|20260417|GOLD": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "01:25 PM",
-      "date": "20260417",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "3"
-    },
-    "AMBH|109089|20260417|LOUNGERS": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "01:25 PM",
-      "date": "20260417",
-      "cat": "LOUNGERS",
-      "price": "295.00",
-      "status": "3"
-    },
-    "AMBH|109094|20260417|PLATINUM": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "05:15 PM",
-      "date": "20260417",
-      "cat": "PLATINUM",
-      "price": "350.00",
-      "status": "0"
-    },
-    "AMBH|109094|20260417|GOLD": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "05:15 PM",
-      "date": "20260417",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "3"
-    },
-    "AMBH|109094|20260417|LOUNGERS": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "05:15 PM",
-      "date": "20260417",
-      "cat": "LOUNGERS",
-      "price": "295.00",
-      "status": "3"
-    },
-    "PRHN|248972|20260417|GOLD": {
+    "PRHN|249132|20260415|EXECUTIVE": {
       "venue": "Prasads Multiplex: Hyderabad",
-      "time": "09:00 AM",
-      "date": "20260417",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "3"
-    },
-    "PRHN|249098|20260417|EXECUTIVE": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "11:45 AM",
-      "date": "20260417",
+      "time": "11:15 AM",
+      "date": "20260415",
       "cat": "EXECUTIVE",
       "price": "295.00",
       "status": "3"
     },
-    "PRHN|248974|20260417|GOLD": {
+    "PRHN|249020|20260415|EXECUTIVE": {
       "venue": "Prasads Multiplex: Hyderabad",
-      "time": "02:50 PM",
-      "date": "20260417",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "3"
-    },
-    "AMBH|109114|20260418|PLATINUM": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "10:40 AM",
-      "date": "20260418",
-      "cat": "PLATINUM",
-      "price": "350.00",
-      "status": "0"
-    },
-    "AMBH|109114|20260418|GOLD": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "10:40 AM",
-      "date": "20260418",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "3"
-    },
-    "AMBH|109114|20260418|LOUNGERS": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "10:40 AM",
-      "date": "20260418",
-      "cat": "LOUNGERS",
-      "price": "295.00",
-      "status": "3"
-    },
-    "AMBH|109115|20260418|PLATINUM": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "01:25 PM",
-      "date": "20260418",
-      "cat": "PLATINUM",
-      "price": "350.00",
-      "status": "0"
-    },
-    "AMBH|109115|20260418|GOLD": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "01:25 PM",
-      "date": "20260418",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "3"
-    },
-    "AMBH|109115|20260418|LOUNGERS": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "01:25 PM",
-      "date": "20260418",
-      "cat": "LOUNGERS",
-      "price": "295.00",
-      "status": "3"
-    },
-    "AMBH|109119|20260418|PLATINUM": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "05:15 PM",
-      "date": "20260418",
-      "cat": "PLATINUM",
-      "price": "350.00",
-      "status": "0"
-    },
-    "AMBH|109119|20260418|GOLD": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "05:15 PM",
-      "date": "20260418",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "3"
-    },
-    "AMBH|109119|20260418|LOUNGERS": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "05:15 PM",
-      "date": "20260418",
-      "cat": "LOUNGERS",
-      "price": "295.00",
-      "status": "3"
-    },
-    "PRHN|249140|20260418|EXECUTIVE": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "09:15 AM",
-      "date": "20260418",
+      "time": "02:00 PM",
+      "date": "20260415",
       "cat": "EXECUTIVE",
       "price": "295.00",
       "status": "3"
     },
-    "PRHN|249085|20260418|GOLD": {
+    "PRHN|249016|20260415|EXECUTIVE": {
       "venue": "Prasads Multiplex: Hyderabad",
-      "time": "12:05 PM",
-      "date": "20260418",
+      "time": "05:15 PM",
+      "date": "20260415",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
+    "PRHN|249101|20260415|EXECUTIVE": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "08:10 PM",
+      "date": "20260415",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
+    "PRHN|249018|20260415|EXECUTIVE": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "11:15 PM",
+      "date": "20260415",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
+    "ALUC|698|20260415|PLATINUM": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "02:55 PM",
+      "date": "20260415",
+      "cat": "PLATINUM",
+      "price": "350.00",
+      "status": "2"
+    },
+    "ALUC|698|20260415|GOLD": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "02:55 PM",
+      "date": "20260415",
       "cat": "GOLD",
       "price": "295.00",
       "status": "3"
     },
-    "PRHN|249087|20260418|GOLD": {
+    "ALUC|700|20260415|PLATINUM": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "10:15 PM",
+      "date": "20260415",
+      "cat": "PLATINUM",
+      "price": "350.00",
+      "status": "3"
+    },
+    "ALUC|700|20260415|GOLD": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "10:15 PM",
+      "date": "20260415",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "3"
+    },
+    "PRHN|249138|20260416|EXECUTIVE": {
       "venue": "Prasads Multiplex: Hyderabad",
-      "time": "05:55 PM",
-      "date": "20260418",
+      "time": "11:30 AM",
+      "date": "20260416",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
+    "PRHN|249044|20260416|EXECUTIVE": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "02:35 PM",
+      "date": "20260416",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
+    "PRHN|249046|20260416|EXECUTIVE": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "08:15 PM",
+      "date": "20260416",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
+    "ALUC|716|20260416|PLATINUM": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "02:55 PM",
+      "date": "20260416",
+      "cat": "PLATINUM",
+      "price": "350.00",
+      "status": "3"
+    },
+    "ALUC|716|20260416|GOLD": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "02:55 PM",
+      "date": "20260416",
       "cat": "GOLD",
       "price": "295.00",
       "status": "3"
     }
   },
   "dates": {
+    "20260414": "AVAILABLE",
+    "20260415": "AVAILABLE",
+    "20260416": "BOOKABLE",
     "20260417": "AVAILABLE",
-    "20260418": "BOOKABLE",
+    "20260418": "AVAILABLE",
     "20260419": "AVAILABLE",
-    "20260420": "NOT_OPEN",
-    "20260421": "NOT_OPEN",
-    "20260422": "NOT_OPEN",
-    "20260423": "NOT_OPEN"
+    "20260420": "AVAILABLE",
+    "20260421": "AVAILABLE",
+    "20260422": "AVAILABLE",
+    "20260423": "AVAILABLE"
   }
 }
