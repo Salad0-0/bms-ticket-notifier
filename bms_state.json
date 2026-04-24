@@ -1,13 +1,5 @@
 {
   "shows": {
-    "PRHN|249182|20260424|GOLD": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "11:50 AM",
-      "date": "20260424",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "1"
-    },
     "PRHN|249183|20260424|GOLD": {
       "venue": "Prasads Multiplex: Hyderabad",
       "time": "02:40 PM",
@@ -22,7 +14,7 @@
       "date": "20260424",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "2"
+      "status": "1"
     },
     "PRHN|249185|20260424|GOLD": {
       "venue": "Prasads Multiplex: Hyderabad",
@@ -78,7 +70,7 @@
       "date": "20260424",
       "cat": "PLATINUM",
       "price": "350.00",
-      "status": "2"
+      "status": "0"
     },
     "ALUC|919|20260424|GOLD": {
       "venue": "ALLU Cinemas: Kokapet",
