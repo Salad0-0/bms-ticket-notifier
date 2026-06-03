@@ -46,23 +46,7 @@
       "date": "20260603",
       "cat": "GOLD",
       "price": "600.00",
-      "status": "1"
-    },
-    "TLUR|36840|20260603|GOLD": {
-      "venue": "Talluri Theatres: Kushaiguda",
-      "time": "09:15 PM",
-      "date": "20260603",
-      "cat": "GOLD",
-      "price": "600.00",
-      "status": "2"
-    },
-    "TLUR|36840|20260603|SILVER": {
-      "venue": "Talluri Theatres: Kushaiguda",
-      "time": "09:15 PM",
-      "date": "20260603",
-      "cat": "SILVER",
-      "price": "600.00",
-      "status": "2"
+      "status": "0"
     }
   },
   "dates": {
