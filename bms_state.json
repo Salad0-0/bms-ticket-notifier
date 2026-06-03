@@ -1,12 +1,79 @@
 {
-  "shows": {},
+  "shows": {
+    "ALUC|1873|20260603|PLATINUM": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "08:20 PM",
+      "date": "20260603",
+      "cat": "PLATINUM",
+      "price": "600.00",
+      "status": "0"
+    },
+    "ALUC|1873|20260603|GOLD": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "08:20 PM",
+      "date": "20260603",
+      "cat": "GOLD",
+      "price": "600.00",
+      "status": "0"
+    },
+    "ALUC|1876|20260603|PLATINUM": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "08:35 PM",
+      "date": "20260603",
+      "cat": "PLATINUM",
+      "price": "600.00",
+      "status": "0"
+    },
+    "ALUC|1876|20260603|GOLD": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "08:35 PM",
+      "date": "20260603",
+      "cat": "GOLD",
+      "price": "600.00",
+      "status": "1"
+    },
+    "ALUC|1878|20260603|PLATINUM": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "08:50 PM",
+      "date": "20260603",
+      "cat": "PLATINUM",
+      "price": "600.00",
+      "status": "0"
+    },
+    "ALUC|1878|20260603|GOLD": {
+      "venue": "ALLU Cinemas: Kokapet",
+      "time": "08:50 PM",
+      "date": "20260603",
+      "cat": "GOLD",
+      "price": "600.00",
+      "status": "1"
+    },
+    "TLUR|36840|20260603|GOLD": {
+      "venue": "Talluri Theatres: Kushaiguda",
+      "time": "09:15 PM",
+      "date": "20260603",
+      "cat": "GOLD",
+      "price": "600.00",
+      "status": "2"
+    },
+    "TLUR|36840|20260603|SILVER": {
+      "venue": "Talluri Theatres: Kushaiguda",
+      "time": "09:15 PM",
+      "date": "20260603",
+      "cat": "SILVER",
+      "price": "600.00",
+      "status": "2"
+    }
+  },
   "dates": {
-    "20260502": "BOOKABLE",
-    "20260503": "AVAILABLE",
-    "20260504": "AVAILABLE",
-    "20260505": "AVAILABLE",
-    "20260506": "AVAILABLE",
-    "20260507": "AVAILABLE",
-    "20260508": "AVAILABLE"
+    "20260603": "BOOKABLE",
+    "20260604": "AVAILABLE",
+    "20260605": "AVAILABLE",
+    "20260606": "AVAILABLE",
+    "20260607": "AVAILABLE",
+    "20260608": "AVAILABLE",
+    "20260609": "AVAILABLE",
+    "20260610": "AVAILABLE",
+    "20260611": "AVAILABLE"
   }
 }
